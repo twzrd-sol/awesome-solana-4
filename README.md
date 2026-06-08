@@ -50,6 +50,7 @@
 - [SPL Token UI](https://spl-token-ui.com) for general token management on all clusters
 - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed
 - [Phantom Wallet](https://phantom.app/) Solana wallet extention with excelent development support.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring for Solana AI agents. Verify agent wallet identity before x402 micropayments via free MCP endpoint.
 
 #### Libraries & Frameworks
 - [Anchor](https://github.com/project-serum/anchor)
